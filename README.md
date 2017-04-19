@@ -1,0 +1,1 @@
+I really want to have a tool that gives you total performance after fees and taxes.  This should take into consideration the real world activities of how trades are places, when taxes are paid, and when dividends are distributed.
